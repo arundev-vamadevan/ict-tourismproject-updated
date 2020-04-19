@@ -1,0 +1,191 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+#navbarNav li{
+    padding-right: 5px;
+
+}
+
+#navbarNav #my{
+    padding-left: 200px;
+}
+
+#section-experience .work-title-text {
+
+    padding-right: 15px;
+    border-right: 3px solid #1c1d1c;
+   
+   
+  }
+
+  #section-experience #flex2{
+      padding-top: 50px;
+  }
+  
+  
+  #section-experience button{
+    font-size: 20px;
+    padding: 15px 25px;
+    margin: 5px;
+    background-color: #242a33;
+    border-radius: 0px;
+    color: #f15025;
+    
+    
+  }
+  
+  #section-experience button:hover {
+    background-color: #f15025;
+    color: #242a33;
+    
+  }
+
+
+  #section-carousel{
+      padding-top: 100px;
+  }
+
+
+  #section-top-destinations .work-title-text {
+
+    padding-right: 15px;
+    border-right: 3px solid #232423;
+   
+  }
+
+  #section-top-destinations #flex1{
+      padding-right: 120px;
+      padding-top: 75px;
+  }
+#section-top-destinations h5{
+    text-align: center;
+    color: white;
+}
+
+#section-top-destinations{
+    background-color: #b6b8bb;
+}
+
+#section-top-destinations #btgrp{
+   padding-left: 500px;
+   padding-top: 30px;
+   padding-bottom: 50px;
+}
+#section-top-destinations .btn:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+
+
+
+
+  #section-things-to-do .work-title-text {
+
+    padding-right: 15px;
+    border-right: 3px solid white;
+    color: white;
+   
+  }
+
+  #section-things-to-do #flex1{
+      padding-right: 120px;
+      padding-top: 75px;
+  }
+  #section-things-to-do h5{
+    text-align: center;
+    color: white;
+}
+
+#section-things-to-do{
+    
+   
+        background-image: url(./images/back1.jpg);
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        min-height: 100vh;
+}
+#section-things-to-do #btgrp{
+   padding-left: 500px;
+   padding-top: 30px;
+   padding-bottom: 50px;
+}
+#section-things-to-do .btn:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+
+#section-trailer #sig{
+    padding-top: 50px;
+
+}
+
+#navbarNav .fa-home{
+    font-size: 30px;
+  }
+
+
+  .sidebar {
+    background-color: #242a33;
+  }
+  
+  .sidebar .nav-link,
+  .sidebar .navbar-brand {
+    color: #687384;
+  }
+  
+  .sidebar .nav-link:hover,
+  .sidebar .navbar-brand:hover {
+    color: #fff;
+  }
+  
+  /*inform-card*/
+  
+  .inform-card .card-1 {
+    background-color: #403f4c;
+  }
+  
+  .inform-card .card-2 {
+    background-color: #efbcd5;
+  }
+  
+  .inform-card .card-3 {
+    background-color: #f9dc5c;
+  }
+  
+  .inform-card .card-4 {
+    background-color: #3185fc;
+  }
+  
+  .inform-card .card .body-icon {
+    font-size: 60px;
+    transform: rotate(315deg);
+    color: #f15025;
+  }
+  
+  .inform-card .card .fa,
+  .inform-card .card a {
+    color: #f15025;
+  }
+  
+  .inform-card .card a:hover {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  .inform-card .card {
+    color: #fff;
+  }
+  
+  .inform-card .card-footer {
+    background: rgba(0, 0, 0, 0.5);
+  }
+  
+  #top{
+      padding-top: 100px;
+  }
+  #top h5{
+      color: black;
+  }
